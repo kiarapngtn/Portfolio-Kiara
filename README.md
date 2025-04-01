@@ -1,7 +1,7 @@
 # JS Portfolio Website
-import LaptopImg from "![alt text](image.png);
 
 [🔗Live Demo🔗](https://portfolio-kiara.onrender.com)
+![alt text](image.png)
 
 ![Protfolio Website](https://portfolio-kiara.onrender.com)
 
